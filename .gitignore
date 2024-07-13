@@ -1,2 +1,4 @@
 images/large/Thumbs.db
 images/thumbnails/Thumbs.db
+node_modules
+.env
